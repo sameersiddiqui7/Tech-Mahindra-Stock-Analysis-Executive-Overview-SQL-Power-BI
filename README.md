@@ -4,11 +4,9 @@
 
 Exploratory analysis of Tech Mahindra historical stock-market data using **PostgreSQL, SQL, and Power BI**.
 
-![Tech Mahindra Stock Analysis Dashboard](screenshots/tech-mahindra-dashboard.png)
-
----
-
 ## Project Overview
+<img width="605" height="338" alt="Tech Mahindra Executive Dashboard Image" src="https://github.com/user-attachments/assets/ff1dc257-405a-4806-b90b-7024cad2b9e9" />
+
 
 This project analyzes historical stock-market data for **Tech Mahindra** to understand price performance, trading activity, volatility, and time-based market trends.
 
