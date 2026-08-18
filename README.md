@@ -1,0 +1,1 @@
+# Tech-Mahindra-Stock-Analysis-Executive-Overview-SQL-Power-BI
